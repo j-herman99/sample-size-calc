@@ -1,4 +1,11 @@
-# 🧮 Sample Size Calculator
+# 🧮 Population Sample Size Calculator
+
+![Built With: Excel & Python](https://img.shields.io/badge/Built%20With-Excel%20%26%20Python-blue)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Use Case: Surveys & A/B Testing](https://img.shields.io/badge/Use%20Case-Surveys%20%26%20A%2FB%20Testing-orange)
+![Validated: Python Benchmarking](https://img.shields.io/badge/Validated-Python%20Benchmarking-lightgrey)
+![Visualization: Heatmap](https://img.shields.io/badge/Visualization-Heatmap-critical)
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 *A practical tool for analysts, researchers, and product teams to determine how many responses are needed for reliable insights.*
 
