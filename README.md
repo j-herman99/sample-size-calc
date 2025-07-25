@@ -1,12 +1,13 @@
 # 🧮 Population Sample Size Calculator
 
-![Built With: Excel + Python](https://img.shields.io/badge/Built%20With-Excel%20%2B%20Python-blue)
-![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Use Case: Surveys & A/B Testing](https://img.shields.io/badge/Use%20Case-Surveys%20%26%20A%2FB%20Testing-orange)
-![Validation: Python Benchmarking](https://img.shields.io/badge/Validation-Python%20Benchmarking-lightgrey)
-![Visualization: Seaborn Heatmap](https://img.shields.io/badge/Visualization-Seaborn%20Heatmap-critical)
-![Libraries: Pandas, Seaborn, Matplotlib, Math](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn%20%7C%20Matplotlib%20%7C%20Math-lightblue)
-![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
+![Built With](https://img.shields.io/badge/Built%20With-Excel%20+%20Python-5eead4?style=flat&labelColor=134e4a&logo=python&logoColor=white)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-fef9c3?style=flat&labelColor=f7dd6d)
+![Use Case: Surveys & A/B Testing](https://img.shields.io/badge/Use%20Case-Surveys%20%26%20A%2FB%20Testing-d8b4fe?style=flat&labelColor=6b21a8)
+![Validation: Python Benchmarking](https://img.shields.io/badge/Validation-Python%20Benchmarking-bae6fd?style=flat&labelColor=0f172a)
+![Visualization: Seaborn Heatmap](https://img.shields.io/badge/Visualization-Seaborn%20Heatmap-c4b5fd?style=flat&labelColor=312e81)
+![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn%20%7C%20Matplotlib%20%7C%20Math-93c5fd?style=flat&labelColor=1e3a8a&logoColor=white)
+![License](https://img.shields.io/badge/License-Apache%202.0-fcd34d?style=flat&labelColor=0f172a&logoColor=white)
+
 
 *A practical tool for analysts, researchers, and product teams to determine how many responses are needed for reliable insights.*
 
