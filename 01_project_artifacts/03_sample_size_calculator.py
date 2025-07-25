@@ -43,7 +43,7 @@ df = pd.DataFrame(
 
 # Print table
 
-df.to_csv("/Users/jade.herman/Documents/00_github/sample-size-calculator/sample_size_reference_table.csv", index=True)
+df.to_csv("/Documents/sample-size-calculator/sample_size_reference_table.csv", index=True)
 
 
 
