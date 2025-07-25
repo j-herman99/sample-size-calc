@@ -1,12 +1,15 @@
 # 🧮 Population Sample Size Calculator
 
-![Built With](https://img.shields.io/badge/Built%20With-Excel%20+%20Python-5eead4?style=flat&labelColor=134e4a&logo=python&logoColor=white)
-![Status: Complete](https://img.shields.io/badge/Status-Complete-fef9c3?style=flat&labelColor=f7dd6d)
-![Use Case: Surveys & A/B Testing](https://img.shields.io/badge/Use%20Case-Surveys%20%26%20A%2FB%20Testing-d8b4fe?style=flat&labelColor=6b21a8)
-![Validation: Python Benchmarking](https://img.shields.io/badge/Validation-Python%20Benchmarking-bae6fd?style=flat&labelColor=0f172a)
-![Visualization: Seaborn Heatmap](https://img.shields.io/badge/Visualization-Seaborn%20Heatmap-c4b5fd?style=flat&labelColor=312e81)
-![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn%20%7C%20Matplotlib%20%7C%20Math-93c5fd?style=flat&labelColor=1e3a8a&logoColor=white)
-![License](https://img.shields.io/badge/License-Apache%202.0-fcd34d?style=flat&labelColor=0f172a&logoColor=white)
+
+![Built With](https://img.shields.io/badge/Built%20With-Excel%20%2B%20Python-06b6d4?style=flat&labelColor=333)
+![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn%20%7C%20SciPy-6366f1?style=flat&labelColor=333)
+![Visualization](https://img.shields.io/badge/Visualization-Seaborn%20Heatmap-9333ea?style=flat&labelColor=333)
+![Status](https://img.shields.io/badge/Status-Complete-facc15?style=flat&labelColor=333)
+![Use Case](https://img.shields.io/badge/Use%20Case-Surveys%20%26%20A%2FB%20Testing-14b8a6?style=flat&labelColor=333)
+![Validation](https://img.shields.io/badge/Validation-Python%20Benchmarking-3b82f6?style=flat&labelColor=333)
+![License](https://img.shields.io/badge/License-Apache%202.0-f59e0b?style=flat&labelColor=333)
+
+
 
 
 *A practical tool for analysts, researchers, and product teams to determine how many responses are needed for reliable insights.*
